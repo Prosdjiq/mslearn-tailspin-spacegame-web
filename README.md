@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/yoanpopov/Kofa/_apis/build/status%2FProsdjiq.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/yoanpopov/Kofa/_build/latest?definitionId=3&branchName=build-pipeline)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
